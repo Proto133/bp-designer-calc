@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import DealCalculations from '@/components/DealCalculations.vue'
+import HomeView from '@/views/HomeView.vue'
 </script>
 
 <template>
-  <DealCalculations />
+  <HomeView />
 </template>
 
 <style lang="scss">
